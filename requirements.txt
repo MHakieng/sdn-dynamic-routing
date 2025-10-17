@@ -1,0 +1,20 @@
+# SDN Proje Gereksinimleri
+
+# SDN Framework
+ryu>=4.34
+
+# Network Simulation
+# mininet (sistem paket yöneticisi ile kurulmalı)
+
+# Data Analysis
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Network Tools
+networkx>=2.6.0
+scapy>=2.4.5
+
+# Logging and Utils
+colorlog>=6.0.0
